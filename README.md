@@ -1,3 +1,6 @@
+# nginx-nodjs Dockerfile
+
+[![Docker Repository on Quay.io](https://quay.io/repository/marioploria/docker-nginx-nodejs/status "Docker Repository on Quay.io")](https://quay.io/repository/marioploria/docker-nginx-nodejs)
 
 **This image merely contains nginx with nodejs laid over it. We inherit from dockerfile/nginx and utilize the same install parameters for node/python. The following is the readme from https://github.com/dockerfile/nodejs/blob/master/README.md**
 
