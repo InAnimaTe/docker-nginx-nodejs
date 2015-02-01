@@ -1,7 +1,7 @@
 #
 # Node.js (on top of nginx) Dockerfile
 #
-# https://github.com/dockerfile/nodejs
+# https://github.com/InAnimaTe/docker-nginx-nodejs/
 #
 
 # Pull base image. See it here: http://dockerfile.github.io/#/nginx
