@@ -5,7 +5,7 @@
 #
 
 # Pull base image. See it here: http://dockerfile.github.io/#/nginx
-FROM dockerfile/nginx
+FROM nginx
 
 # Install Python.
 RUN \
